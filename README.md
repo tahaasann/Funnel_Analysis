@@ -1,0 +1,1 @@
+Fake datalar üretip bunlarla farklı veri setleri oluştururak, SQL komutları vasıtasıyla bir database'e kaydederek, bu veriler üzerinden Funnel Analizi üzerine çalışmak için bu repoyu açtım.
